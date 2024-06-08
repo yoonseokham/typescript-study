@@ -58,3 +58,4 @@ d(sum(1, 2).toString());
 
 let null_value: null = null;
 let undefined_value: undefined = undefined;
+export { };
